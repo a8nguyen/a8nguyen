@@ -1,7 +1,8 @@
 <div>
-<h2 align="right">Hi <img width="35" src="https://github.com/a8nguyen/a8nguyen/blob/main/resources/img/waving.gif">. It's Anh (she/her)</h1>
-<h4 align="right" style="font-weight:normal;">I am a CS student at Saint Louis University with experience in proteomics research and interest in software engineering and data science. Check out my <a href="https://cs.slu.edu/student/anguyen15/resume/" target="_blank">resume</a> for more</h4>
+<h2 align="left">Hi <img width="35" src="https://user-images.githubusercontent.com/48962845/226449190-e8f4690a-12db-4085-8b01-988356760dd7.gif">. My name is Anh (she/her)</h2>
+<p align="left" style style="font-weight: normal;"> I am a CS student at Saint Louis University with experience in proteomics research and interest in software engineering and data science. Check out my <a href="https://cs.slu.edu/student/anguyen15/resume/" target="_blank">resume </a> for more </p>
 </div>
+
 <!--
 **a8nguyen/a8nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
