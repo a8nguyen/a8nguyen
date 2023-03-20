@@ -1,6 +1,6 @@
-<div align="center">
-<h2 align="center">Hi <img width="35" src="https://github.com/a8nguyen/a8nguyen/blob/main/resources/img/waving.gif">. It's Anh (she/her)</h1>
-<h4 align="center">I am a CS student at Saint Louis University with experience in proteomics research and interest in software engineering and data science. Check out my <a href="https://cs.slu.edu/student/anguyen15/resume/" target="_blank">resume</a> for more</h4>
+<div>
+<h2 align="right">Hi <img width="35" src="https://github.com/a8nguyen/a8nguyen/blob/main/resources/img/waving.gif">. It's Anh (she/her)</h1>
+<h4 align="right" style="font-weight:normal;">I am a CS student at Saint Louis University with experience in proteomics research and interest in software engineering and data science. Check out my <a href="https://cs.slu.edu/student/anguyen15/resume/" target="_blank">resume</a> for more</h4>
 </div>
 <!--
 **a8nguyen/a8nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
