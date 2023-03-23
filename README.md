@@ -1,6 +1,6 @@
 <div>
 <h2 align="left">Hi <img width="35" src="https://user-images.githubusercontent.com/48962845/226449190-e8f4690a-12db-4085-8b01-988356760dd7.gif">. My name is Anh (she/her)</h2>
-<p align="left" style style="font-weight: normal;"> I am a CS student at Saint Louis University with experience in proteomics research and interest in software engineering and data science. Check out my <a href="https://cs.slu.edu/student/anguyen15/resume/" target="_blank">resume </a> for more </p>
+<p align="left" style style="font-weight: normal;"> I am a CS student at Saint Louis University with experience in proteomics research and interest in software engineering, data science and distributed systems. Check out my <a href="https://cs.slu.edu/student/anguyen15/resume/" target="_blank">resume </a> for more </p>
 </div>
 
 <!--
